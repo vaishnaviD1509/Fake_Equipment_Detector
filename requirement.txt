@@ -1,0 +1,6 @@
+flask
+gunicorn
+numpy
+ginicorn
+tensorflow
+pandaspickle-mixin
